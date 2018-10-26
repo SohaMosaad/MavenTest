@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="69" started-at="2018-10-26T11:59:29Z" finished-at="2018-10-26T11:59:29Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="69" started-at="2018-10-26T11:59:29Z" finished-at="2018-10-26T11:59:29Z">
+      <class name="TC001.try_github">
+        <test-method status="PASS" signature="func()[pri:0, instance:TC001.try_github@3bfdc050]" name="func" duration-ms="20" started-at="2018-10-26T13:59:29Z" finished-at="2018-10-26T13:59:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- func -->
+      </class> <!-- TC001.try_github -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
